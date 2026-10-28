@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+scipy
+opencv-python
+onnxruntime
+rtmlib
